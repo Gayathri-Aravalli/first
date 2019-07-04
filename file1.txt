@@ -2,4 +2,4 @@ Day 4 - Git download and installation
 Day 4 - GitHub creation, Push and Pull operations
 Day 4 - File creations and folder creations
 Day 4 - Basic commands of Ubuntu operating systems
-
+Gitam - GitHub classes
